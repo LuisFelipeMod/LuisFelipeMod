@@ -16,7 +16,7 @@
     </svg>
 </a>
 
-<a href="https://medium.com/@zluvsand">
+<a href="d">
     <svg width="89" height="88" viewBox="0 0 89 88" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clip-path="url(#clip0_315_1771)">
       <rect x="0.546997" width="87.5156" height="87.5156" rx="17.5031" fill="white"/>
