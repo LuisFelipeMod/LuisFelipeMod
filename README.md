@@ -2,8 +2,8 @@
 💻 I’m currently working on [@eficazconsultoria](https://github.com/eficazconsultoria)<br />
 📚 I’m currently learning more about NextJS | Bootstrap | Wake - Store Front <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-turra-flor%C3%AAncio-6362241b5/?locale=en_US)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/victor.turra.f/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisfelipegm)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/luisgmodesto/)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisModesto0&show_icons=true&count_private=true&include_all_commits=true" />
