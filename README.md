@@ -1,6 +1,6 @@
 ### Hey! wassup? I'm Luis Modesto and this is my github repository.
 💻 I’m currently working on [@eficazconsultoria](https://github.com/eficazconsultoria)<br />
-📚 I’m currently learning more about NextJS | Bootstrap | Wake - Store Front <br />
+📚 I’m currently learning more about NextJS <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisfelipegm)
 
