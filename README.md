@@ -2,7 +2,7 @@
 💻 I’m currently working on [@eficazconsultoria](https://github.com/eficazconsultoria)<br />
 📚 I’m currently learning more about: TypeScript | GraphQL | Remix.Run <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisfelipegm)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luisfelipegm)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFelipeMod&show_icons=true&count_private=true&include_all_commits=true" />
