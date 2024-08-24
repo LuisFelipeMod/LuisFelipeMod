@@ -5,7 +5,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=5514998084367&text=Ol%C3%A1%2C+gostaria+de+fazer+uma+proposta%21&type=phone_number&app_absent=0)
 
 ![LuisFelipeMod's Stats](https://github-readme-stats.vercel.app/api?username=LuisFelipeMod&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![LuisFelipeMod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeMod&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 #### Tecnologies
 <div>
