@@ -1,4 +1,4 @@
-### Hey! wassup? I'm Luis Modesto and this is my github repository.
+### Hi! I'm Luis Modesto and this is my github repository.
 💻 I’m currently working on [@eficazconsultoria](https://github.com/eficazconsultoria)<br />
 🌐 My portfolio: https://luisfelipemod.github.io/
 
