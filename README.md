@@ -1,5 +1,4 @@
 ### Hi! I'm Luis Modesto and this is my github repository.
-💻 I’m currently working on [@eficazconsultoria](https://github.com/eficazconsultoria)<br />
 🌐 My portfolio: https://luisfelipemod.github.io/
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luisfelipegm)
